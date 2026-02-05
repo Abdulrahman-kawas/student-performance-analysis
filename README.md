@@ -1,6 +1,6 @@
 # student-performance-analysis
 Analyze students' performance using Python, pandas, seaborn, matplotlib
-# Student Performance Analysis 📊
+# Student Performance Analysis 
 
 ## Description
 This project analyzes students' performance in three subjects: **Reading, Writing, and Math**. 
